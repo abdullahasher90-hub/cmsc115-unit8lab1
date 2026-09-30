@@ -1,5 +1,5 @@
 public class BuggyProgram {
-
+// Fixed by Abdullah Asher
     // Method 1: nested conditionals
     public static String getGrade(int score) {
         if (score >= 90) {
