@@ -1,5 +1,6 @@
 public class BuggyProgram {
 // Fixed by Abdullah Asher
+    Fix Task 2 (sumEvenNumbers)
     // Method 1: nested conditionals
     public static String getGrade(int score) {
         if (score >= 90) {
